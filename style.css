@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #011627;
+    color: #fdfffc;
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/24/03/41/starry-sky-2675322_960_720.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+input {
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    /* background-color: white; */
+    /* color: black; */
+    border-style: none;
+}
+
+.input {
+    width: 370px;
+    height: 70px;
+    background-color: #4c555c;
+    border: none;
+}
+
+#addKey {
+    background-color: #cc5c11;
+}
+
+#subKey {
+    background-color: #ba55d3;
+}
+
+#multiplyKey {
+    background-color: #7db1b2;
+}
+
+#clearKey {
+    background-color: #cc0000;
+}
+
+#divKey {
+    background-color: #1f80c9;
+}
+
+.btn:hover {
+    background-color: yellow;
+    cursor: pointer;
+}
