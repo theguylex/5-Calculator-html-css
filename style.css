@@ -31,6 +31,7 @@ input {
     height: 70px;
     background-color: #4c555c;
     border: none;
+    color: white;
 }
 
 #addKey {
